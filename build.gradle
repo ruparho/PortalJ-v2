@@ -43,3 +43,10 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+test {
+    reports {
+        junitXml.enabled = true
+        html.enabled = true
+    }
+}
