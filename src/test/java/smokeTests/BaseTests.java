@@ -31,7 +31,7 @@ public abstract class BaseTests {
             // Local configuration for Chrome and Firefox
             Configuration.remote = null; // Ensure it runs locally
         }
-        Configuration.headless = true;
+        //Configuration.headless = true;
         Configuration.fastSetValue = true;
         Configuration.savePageSource = false;
         Configuration.screenshots = true;

@@ -30,8 +30,8 @@ public class Const {
     public String FAX_URL = sSettings[iIndex][0][4];
 
     /************* Browsers ***************************/
-    public static final String BROWSER = "chrome";
-//    public static final String BROWSER = "firefox";
+//    public static final String BROWSER = "chrome";
+    public static final String BROWSER = "firefox";
 //    public static final String BROWSER = "safari";
 //
 
